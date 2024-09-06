@@ -1,5 +1,4 @@
-{ "games": 
- [
+[
     {
       "title": "Panque meu Queixo",
       "image":
@@ -19,5 +18,3 @@
       "url": "https://play.google.com/store/apps/details?id=com.isrstudio.calmacalabreso"
     }
   ]
-
-}
