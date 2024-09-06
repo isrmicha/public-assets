@@ -1,0 +1,19 @@
+{
+    "games": [
+        {
+            "title": "Panque meu Queixo",
+            "image": "https://lh3.googleusercontent.com/PEu_FFbCGWy78rZIbwtubg8KsVoxye2irMAS6CBn5Yc7AX5IMsZwzlyClsJ0_VPXM9u_",
+            "url": "https://play.google.com/store/apps/details?id=com.isrstudio.panquemeuqueixo"
+        },
+        {
+            "title": "Mizeravi Matemática Quiz",
+            "image": "https://lh3.googleusercontent.com/HG97inB3yMUk4zi7zFaO4BY7BjlNjWRYNRFFWrsaQnsDbnSxi5r7OTGXMfo9v_-teb0",
+            "url": "https://play.google.com/store/apps/details?id=com.isrstudio.mizeravi"
+        },
+        {
+            "title": "Calma Calabreso",
+            "image": "https://lh3.googleusercontent.com/SUKsKsid85QYbKKT-RYsvE_ex66Qbh4vkNlGPrW_WF3vy2ulI8ywQMSCg1ZE9ZpTGQ",
+            "url": "https://play.google.com/store/apps/details?id=com.isrstudio.calmacalabreso"
+        }
+    ]
+}
